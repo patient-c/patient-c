@@ -1,10 +1,7 @@
 ## Hello everyniam 👋
-
-I'm patient, a begginer on cybersecurity and back-end developer.
-
+I'm patient, a beginner on cybersecurity and back-end developer.
 *For sure, I use Arch btw.*
 
 ## Skills
-
-![Alt text](linux.svg) ![Alt text](bash.svg) ![Alt text](python.svg)
+<img src="linux.svg" alt="Linux" width="50"/> <img src="bash.svg" alt="Bash" width="50"/> <img src="python.svg" alt="Python" width="50"/>
 
