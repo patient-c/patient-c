@@ -1,5 +1,5 @@
-## Hello everyniam 
-<img src="omaiga.svg" alt="Linux"/> <img src="hello.svg" alt="Linux"/>  
+## Hello everynyan  
+<img src="hello.gif"/>  
 
 I'm patient, a beginner on cybersecurity and back-end developer.
 *For sure, I use Arch btw.*
