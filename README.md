@@ -2,7 +2,7 @@
 <img src="hello.gif"/>  
 
 ## About me
-I'm patient, a beginner on cybersecurity and back-end developer.
+I'm patient, beginner on cybersecurity and back-end developer.
 *For sure, I use Arch btw.*
 
 ## Skills
